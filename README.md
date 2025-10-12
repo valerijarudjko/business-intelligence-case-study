@@ -2,6 +2,8 @@
 
 This project analyses Tenflix, a fictional streaming company that evolved from a traditional DVD rental business into a global online entertainment platform. It explores how Business Intelligence (BI) techniques are applied to manage and interpret vast amounts of user and content data in real time. The study examines how BI enables personalised recommendations, data-driven decision-making, and strategic forecasting, distinguishing it from traditional manual data analysis. Objectives include understanding BI’s role in enhancing customer experience, improving operational efficiency, and supporting sustainable business growth. Overall, the project highlights how data intelligence transforms modern digital enterprises into adaptive, customer-focused organisations.
 
+![Case Study](https://github.com/valerijarudjko/business-intelligence-case-study/blob/main/BI%20Architecture.png)
+
 ## Tenflix: Background
 
 Two young entrepreneurs invested the little capital they had to open a DVD rental store back in 1990. They rented a small shop in their town, The Dogs, in Santa Clara County, California. Everything was perfect, and the business started to grow so much that they soon realized they needed a larger space and began opening stores in other locations.
